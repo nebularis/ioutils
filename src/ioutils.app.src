@@ -1,0 +1,6 @@
+{application, ioutils,
+ [
+  {description, "I/O Utils"},
+  {vsn, "0.0.1"},
+  {applications, [kernel, stdlib]}
+ ]}.
